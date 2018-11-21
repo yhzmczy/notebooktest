@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaTest",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.yhzmczy.test.Lambda.LambdaTest",
+            "args": "",
+            "projectName": "yhzmczy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestOfFormatter",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "com.yhzmczy.test.date.TestOfFormatter",
+            "args": "",
+            "projectName": "yhzmczy"
+        }
+    ]
+}
